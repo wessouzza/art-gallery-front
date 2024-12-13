@@ -1,0 +1,25 @@
+.btn{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    border: 2px solid white;
+    border-radius: 5rem;
+    padding-block: .2rem;
+    padding-inline: 2rem;
+    font-size: 1.5rem;
+    color: white;
+    text-decoration: none;
+    transition: .3s ease;
+    cursor: pointer;
+}
+
+.btn:hover{
+    box-shadow: var(--shine);
+}
+
+@media (max-width: 350px){
+    .btn{
+        padding: 1rem;
+        width: 19rem;
+    }
+}

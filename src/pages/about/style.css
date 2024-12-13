@@ -1,0 +1,14 @@
+.global-section{
+    display: flex;
+    justify-content: center;
+    padding: 1rem;
+}
+
+.global-section p{
+    display: flex;
+    max-width: 800px;
+}
+
+.global-section h2{
+    font-size: 2rem;
+}

@@ -1,0 +1,38 @@
+.navbar{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 1.2rem;
+    background-color: var(--dark);
+}
+
+.navbar h1{
+    font-family: 'Bebas Neue';
+    font-size: 2.5rem;
+    color: white;
+}
+
+.navbar span{
+    color: var(--blue);
+}
+
+.menu-btn{
+    background-color: var(--dark);
+    border: none;
+    color: white;
+    display: none;
+}
+
+.menu-btn span {
+    width: 48px;
+}
+
+@media (max-width:768px){
+  .navbar{
+    flex-direction: column;
+  }
+
+  .collapse{
+    display: none;
+  }
+}
