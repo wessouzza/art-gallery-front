@@ -6,9 +6,8 @@ Este é um projeto frontend desenvolvido com o intuito de demonstrar minhas habi
 
 ## Tecnologias Utilizadas
 
-- **React.js**: Biblioteca JavaScript para construção de interfaces de usuário.
-- **React Router**: Utilizado para navegação e gerenciamento de rotas no projeto.
--
+- **React.js**:
+- **React Router**
 
 ## Funcionalidades
 
