@@ -3,6 +3,7 @@ import "./style.css";
 import RoundedBtn from "../roundedBtn/RoundedBtn";
 import SearchComponent from "../searchComponent/SearchComponent";
 import { CgMenuRight } from "react-icons/cg";
+import { Link } from "react-router";
 
 const Navbar = () => {
 
@@ -10,9 +11,9 @@ const Navbar = () => {
     <>
       <header>
         <nav className="navbar">
-          <h1>
+          <Link to={"gallery"} className="logo">
             inspir<span>art</span>ion
-          </h1>
+          </Link>
             <SearchComponent/>
             <RoundedBtn path={"contact"} className="collapse">Contato</RoundedBtn>
           <button className="menu-btn">
