@@ -1,8 +1,23 @@
-# React + Vite
+# Art Gallery
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Este é um projeto frontend desenvolvido com o intuito de demonstrar minhas habilidades com a biblioteca **React.js**.
 
-Currently, two official plugins are available:
+[Clique aqui para ver o projeto em execução](https://art-gallery-front.onrender.com/)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Tecnologias Utilizadas
+
+- **React.js**:
+- **React Router**
+
+## Funcionalidades
+
+- **Navegação entre páginas**
+- **Consumo de API externa**
+- **Design Responsivo**
+- **Componentes reutilizáveis**
+
+## Como Rodar o Projeto:
+
+1. Clone este repositório para sua máquina:
+   ```bash
+   git clone https://github.com/seu-usuario/nome-do-repositorio.git
