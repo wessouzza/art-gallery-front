@@ -2,7 +2,6 @@
 
 Este é um projeto frontend desenvolvido com o intuito de demonstrar minhas habilidades com a biblioteca **React.js**.
 
-[Clique aqui para ver o projeto em execução](https://art-gallery-front.onrender.com/)
 
 ## Tecnologias Utilizadas
 
